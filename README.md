@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://fabriziogamboa.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fabriziogamboa.com" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fabrizio-gamboa-a606b4161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabrizio-gamboa-a606b4161" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fabriziogamboapalacios6070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fabriziogamboapalacios6070" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@fabriziogamboapalacios6070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fabriziogamboapalacios6070" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

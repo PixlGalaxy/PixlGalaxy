@@ -1,33 +1,66 @@
-<h1 align="center">Hi there, I'm Fabrizio also known as Pixl</h1>
-<h3 align="center">A passionate computer scientist with a focus on virtualization, Python and C# programming, and AI.</h3>
+<h1 align="center">Hi, I'm Fabrizio, also known as Pixl</h1>
+<h3 align="center">Computer Scientist specializing in virtualization, Python and C# programming, and artificial intelligence.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pixlgalaxy&label=Profile%20views&color=0e75b6&style=flat" alt="pixlgalaxy" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pixlgalaxy" alt="pixlgalaxy" /></a> </p>
+## 🚀 About Me
 
-- 🔭 I’m currently working on [EagleDocs](https://eagledocs.org)
+- 🔭 Currently working on [EagleDocs](https://eagledocs.org)
+- 👯 Looking to collaborate on [ollama](https://github.com/ollama/ollama)
+- 💬 Ask me about **Python, React, and virtualization**
+- 📫 Reach me at **business.fabrizio.gamboa.p@gmail.com**
 
-- 👯 I’m looking to collaborate on [ollama](https://github.com/ollama/ollama)
+---
 
-- 🤝 I’m looking for help with [EagleDocs](https://eagledocs.org)
+## 🌐 Connect with Me
 
-- 💬 Ask me about **python, react, virtualization.**
-
-- 📫 How to reach me **business.fabrizio.gamboa.p@gmail.com**
-
-- ⚡ Fun fact **I'm a Furry XwX**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fabriziogamboa.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fabriziogamboa.com" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fabrizio-gamboa-a606b4161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabrizio-gamboa-a606b4161" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@fabriziogamboapalacios6070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fabriziogamboapalacios6070" height="30" width="40" /></a>
+  <a href="https://fabriziogamboa.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox&logoColor=white" alt="Fabrizio's personal website" />
+  </a>
+  
+  <a href="https://linkedin.com/in/fabrizio-gamboa-a606b4161" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Fabrizio's LinkedIn" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pixlgalaxy&show_icons=true&locale=en&layout=compact" alt="pixlgalaxy" /></p>
+## 🛠️ Languages & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pixlgalaxy&show_icons=true&locale=en" alt="pixlgalaxy" /></p>
+### 📌 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,c,arduino" />
+</p>
+
+### 🔧 Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,bootstrap,tailwind,qt,pytorch,tensorflow" />
+</p>
+
+### 💻 Operating Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,windows,kali,raspberrypi" />
+</p>
+
+### 🚀 DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,sqlite,cloudflare,powershell,vscode,visualstudio" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pixlgalaxy&show_icons=true&locale=en&layout=compact" alt="Most used languages by pixlgalaxy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pixlgalaxy&show_icons=true&locale=en" alt="GitHub stats of pixlgalaxy" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/pixlgalaxy">
+    <img src="https://komarev.com/ghpvc/?username=pixlgalaxy&label=PROFILE+VIEWS&color=ff6b6b&style=for-the-badge" alt="Profile views counter for pixlgalaxy" />
+  </a>
+</p>
+
 

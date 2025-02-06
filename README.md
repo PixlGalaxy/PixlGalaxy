@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on [EagleDocs](https://eagledocs.org/about)
 - 👯 Looking to collaborate on [ollama](https://github.com/ollama/ollama)
-- 💬 Ask me about **Python, React, and virtualization**
+- 💬 Ask me about **Python, React, and Virtualization**
 - 📫 Reach me at **business.fabrizio.gamboa.p@gmail.com**
 
 ---

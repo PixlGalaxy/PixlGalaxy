@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Fabrizio, also known as Pixl</h1>
-<h3 align="center">Computer Scientist specializing in virtualization, Python and C# programming, and artificial intelligence.</h3>
+<h1 align="left">Hi, I'm Fabrizio, also known as Pixl</h1>
+<h3 align="left">Computer Scientist specializing in virtualization, Python and C# programming, and artificial intelligence.</h3>
 
 ---
 

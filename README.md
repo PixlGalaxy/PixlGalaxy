@@ -29,22 +29,22 @@
 ## 🛠️ Languages & Tools
 
 ### 📌 Programming Languages
-<p align="left">
+<p align="left" style="pointer-events: none;">
   <img src="https://skillicons.dev/icons?i=python,cs,cpp,c,js,ts,arduino" />
 </p>
 
 ### 🔧 Frameworks & Libraries
-<p align="left">
+<p align="left" style="pointer-events: none;">
   <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,bootstrap,tailwind,qt,pytorch,tensorflow,html,css" />
 </p>
 
 ### 💻 Operating Systems
-<p align="left">
+<p align="left" style="pointer-events: none;">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,windows,kali,raspberrypi" />
 </p>
 
 ### 🚀 DevOps & Tools
-<p align="left">
+<p align="left" style="pointer-events: none;">
   <img src="https://skillicons.dev/icons?i=docker,nginx,git,sqlite,cloudflare,powershell,vscode,visualstudio" />
 </p>
 

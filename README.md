@@ -35,7 +35,7 @@
 
 ### 🔧 Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,bootstrap,tailwind,qt,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,bootstrap,tailwind,qt,pytorch,tensorflow,html,css" />
 </p>
 
 ### 💻 Operating Systems

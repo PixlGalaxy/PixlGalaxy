@@ -15,11 +15,11 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://fabriziogamboa.com" target="_blank">
+  <a href="https://fabriziogamboa.com" target="_blank" title="Fabrizio's Web Page">
     <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox&logoColor=white" alt="Fabrizio's personal website" />
   </a>
   
-  <a href="https://linkedin.com/in/fabrizio-gamboa-a606b4161" target="_blank">
+  <a href="https://linkedin.com/in/fabrizio-gamboa-a606b4161" target="_blank" title="Fabrizio's YouTube Channel">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Fabrizio's LinkedIn" />
   </a>
 </p>

@@ -30,7 +30,7 @@
 
 ### 📌 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,c,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,c,js,ts,arduino" />
 </p>
 
 ### 🔧 Frameworks & Libraries

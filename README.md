@@ -1,16 +1,12 @@
 <h1 align="left">Hi, I'm Fabrizio, also known as Pixl</h1>
 <h3 align="left">Computer Scientist And Mechatronic Engineer Specialized In Virtualization, Python, C#, And Artificial Intelligence.</h3>
 
----
-
 ## 🚀 About Me
 
 - 🔭 Currently working on [EagleDocs](https://eagledocs.org/about)
 - 👯 Looking to collaborate on [ollama](https://github.com/ollama/ollama)
 - 💬 Ask me about **Python, React, and Virtualization**
 - 📫 Reach me at **business.fabrizio.gamboa.p@gmail.com**
-
----
 
 ## 🌐 Connect with Me
 
@@ -23,8 +19,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Fabrizio's LinkedIn" />
   </a>
 </p>
-
----
 
 ## 🛠️ Languages & Tools
 
@@ -47,8 +41,6 @@
 <p align="left" style="pointer-events: none;">
   <img src="https://skillicons.dev/icons?i=docker,nginx,git,sqlite,cloudflare,powershell,vscode,visualstudio" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 

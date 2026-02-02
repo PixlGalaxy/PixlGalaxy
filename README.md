@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-- Currently working on [Rawon](https://github.com/stegripe/rawon), [PIXL](https://github.com/PixlGalaxy/Pixl), [EagleDocs](https://github.com/PixlGalaxy/EagleDocs)
+- Currently working on [Rawon](https://github.com/stegripe/rawon), [PIXL](https://github.com/PixlGalaxy/Pixl).
 - Looking to collaborate on [ollama](https://github.com/ollama/ollama)
 - Ask me about **Python, C#, Servers, and Virtualization**
 - Reach me at **business@fabriziogamboa.com**

@@ -47,6 +47,7 @@
 <p align="center">
   <img height="180em" src="https://githubstats.fabriziogamboa.com/top-langs?username=pixlgalaxy&show_icons=true&locale=en&layout=compact" alt="Most used languages by pixlgalaxy" />
   <img height="180em" src="https://githubstats.fabriziogamboa.com/?username=pixlgalaxy&show_icons=true&locale=en" alt="GitHub stats of pixlgalaxy" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=pixlgalaxy&theme=white&hide_border=false" alt="GitHub streak stats of pixlgalaxy" />
 </p>
 
 <p align="center">

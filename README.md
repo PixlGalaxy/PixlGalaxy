@@ -45,8 +45,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pixlgalaxy&show_icons=true&locale=en&layout=compact" alt="Most used languages by pixlgalaxy" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pixlgalaxy&show_icons=true&locale=en" alt="GitHub stats of pixlgalaxy" />
+  <img height="180em" src="https://githubstats.fabriziogamboa.com/api/top-langs?username=pixlgalaxy&show_icons=true&locale=en&layout=compact" alt="Most used languages by pixlgalaxy" />
+  <img height="180em" src="https://githubstats.fabriziogamboa.com/api?username=pixlgalaxy&show_icons=true&locale=en" alt="GitHub stats of pixlgalaxy" />
 </p>
 
 <p align="center">

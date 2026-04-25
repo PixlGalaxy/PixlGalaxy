@@ -1,14 +1,14 @@
 <h1 align="left">Hi, I'm Fabrizio, also known as Pixl</h1>
 <h3 align="left">Computer Scientist And Mechatronic Engineer Specialized In Virtualization, Python, C#, And Artificial Intelligence.</h3>
 
-## 🚀 About Me
+## About Me
 
 - Currently working on [Rawon](https://github.com/stegripe/rawon), [PIXL](https://github.com/PixlGalaxy/Pixl).
 - Looking to collaborate on [ollama](https://github.com/ollama/ollama)
 - Ask me about **Python, C#, Servers, and Virtualization**
 - Reach me at **business@fabriziogamboa.com**
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="https://fabriziogamboa.com" target="_blank" title="Fabrizio's Web Page">
@@ -20,29 +20,29 @@
   </a>
 </p>
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
-### 📌 Programming Languages
+### Programming Languages
 <p align="left" style="pointer-events: none;">
   <img src="https://skillicons.dev/icons?i=python,cs,cpp,c,js,ts,arduino" />
 </p>
 
-### 🔧 Frameworks & Libraries
+### Frameworks & Libraries
 <p align="left" style="pointer-events: none;">
   <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,bootstrap,tailwind,qt,pytorch,tensorflow,html,css" />
 </p>
 
-### 💻 Operating Systems
+### Operating Systems
 <p align="left" style="pointer-events: none;">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,windows,kali,raspberrypi" />
 </p>
 
-### 🚀 DevOps & Tools
+### DevOps & Tools
 <p align="left" style="pointer-events: none;">
   <img src="https://skillicons.dev/icons?i=docker,nginx,git,sqlite,cloudflare,powershell,vscode,visualstudio" />
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://githubstats.fabriziogamboa.com/top-langs?username=pixlgalaxy&show_icons=true&locale=en&layout=compact" alt="Most used languages by pixlgalaxy" />

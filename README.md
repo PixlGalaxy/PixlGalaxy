@@ -3,7 +3,7 @@
 
 ## About Me
 
-- Currently working on [webincloud](https://github.com/PixlGalaxy/webincloud), [dockerupdates](https://github.com/PixlGalaxy/dockerupdates), [StudyHawk](https://github.com/PixlGalaxy/StudyHawk).
+- Currently working on [WebinCloud](https://github.com/PixlGalaxy/webincloud), [DockerUpdates](https://github.com/PixlGalaxy/dockerupdates), [StudyHawk](https://github.com/PixlGalaxy/StudyHawk).
 - Looking to collaborate on [ollama](https://github.com/ollama/ollama)
 - Ask me about **Python, C#, Servers, and Virtualization**
 - Reach me at **business@fabriziogamboa.com**

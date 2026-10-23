@@ -2,7 +2,7 @@
 <h3 align="left">Computer Scientist And Mechatronic Engineer Specialized In Virtualization, Python, C#, And Artificial Intelligence.</h3>
 
 ## About Me
-
+ 
 - Currently working on [WebinCloud](https://github.com/PixlGalaxy/webincloud), [DockerUpdates](https://github.com/PixlGalaxy/dockerupdates), [StudyHawk](https://github.com/PixlGalaxy/StudyHawk).
 - Looking to collaborate on [ollama](https://github.com/ollama/ollama)
 - Ask me about **Python, C#, Servers, and Virtualization**

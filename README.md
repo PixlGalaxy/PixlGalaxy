@@ -3,7 +3,7 @@
 
 ## About Me
  
-- Currently working on [WebinCloud](https://github.com/PixlGalaxy/webincloud), [DockerUpdates](https://github.com/PixlGalaxy/dockerupdates), [StudyHawk](https://studyhawk.app).
+- Currently working on [WebinCloud](https://github.com/PixlGalaxy/webincloud), [DockerUpdates](https://github.com/PixlGalaxy/dockerupdates), [StudyHawk](https://studyhawk.app), [HyperStone](https://github.com/PixlGalaxy/HyperStone). 
 - Looking to collaborate on [NginxProxyManager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 - Ask me about **Python, C#, Servers, and Virtualization**
 - Reach me at **business@fabriziogamboa.com**
